@@ -88,7 +88,6 @@ This project performs an in-depth analysis of crime rates across the United Stat
 ## Results
 
 ### Correlation Analysis Findings
-[Add your findings after analysis]
 - Strongest correlations: Murder and Assault - .80
 - Urban density relationship: Urban population has weak positive correlation indicating poor prediction of crime rates
 - Key observations: Based on the observations, violent crimes typically happen together. ('Assault' and 'Rape' (.66), 'Murder' and 'Rape' (.56))
